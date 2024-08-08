@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "books-ds",
+  "name": "books-ds-v1",
   "author": "lorena garcia",
   "module": "dist/alurabooks-ds.esm.js",
   "size-limit": [
